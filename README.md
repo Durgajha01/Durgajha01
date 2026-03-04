@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Durga Kumari</h1>
 
 <h3 align="center">AI & Machine Learning Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=950&height=120&lines=Durga+Kumari;Artificial+Intelligence+and+Machine+Learning+Engineer;Transforming+Ideas+Into+Smart+Solutions;Learning.+Building.+Evolving.">
+</p>
 
 <p align="center">
 🏆 Spark Competition Winner <br>
@@ -9,17 +12,20 @@
 </p>
 
 <hr>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 Email Me 👉 ✉️ **durgajha012@gmail.com** For Internship, Collaboration or Projects.
 
-- 🔭 **I’m currently working on:** Machine Learning & AI-based academic and personal projects  
-- 🌱 **I’m currently learning:** Python, Machine Learning, Deep Learning & Data Science  
-- 👯 **I’m looking to collaborate on:** AI/ML projects and Open Source Contributions  
-- 🤔 **I’m looking for help with:** Advanced ML models & real-world AI implementations  
-- 💬 **Ask me about:** Python, AI/ML Learning Path & Beginner Projects  
-- 📫 **How to reach me:** **durgajha012@gmail.com.com**  
-- 😄 **Pronouns:** Durga 
-- ⚡ **Fun fact:** Passionate about building intelligent systems using AI 🚀  
+-  **I’m currently working on:** Machine Learning & AI-based academic and personal projects  
+-  **I’m currently learning:** Python, Machine Learning, Deep Learning & Data Science  
+-  **I’m looking to collaborate on:** AI/ML projects and Open Source Contributions  
+-  **I’m looking for help with:** Advanced ML models & real-world AI implementations  
+-  **Ask me about:** Python, AI/ML Learning Path & Beginner Projects  
+-  **How to reach me:** **durgajha012@gmail.com.com**  
+-  **Pronouns:** Durga 
+-  **Fun fact:** Passionate about building intelligent systems using AI   
 
 ## 🔗 Aspiring AI & ML Engineer
 
