@@ -35,8 +35,6 @@ I enjoy solving real-world problems using data, algorithms, and intelligent syst
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Durga%20Kumari-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgakumari-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Durga%20Kumari-black?logo=github&logoColor=white)](https://github.com/Durgajha01)
 
